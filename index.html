@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Weather Checker{% end block %}
+
+{% block body %}
+
+<div id="settings">
+	<h1>Settings<div id="buienradar">
+<IFRAME SRC="http://gratisweerdata.buienradar.nl/weergadget/index6240.html" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=300 HEIGHT=190></IFRAME><br/>
+</div></h1>
+	<p>
+	Pump time: <strong>{% if length < 59 %}{{ length }} seconds{% else %}{{ int(length/60) }} minute{% if length > 119 %}s{%end%}{% end %}</strong><br />
+	Time to run the pump for. If enabled, pump runs 8am and 8pm every day for this amount of time, up to 10 minutes.
+	</p>
+	<p>
+	Minimum rain: <strong>{% if min_rain==0 %}Collect all data {% else %}{{ min_rain }}{% end %}</strong><br />
+	0-255, the point at which data is collected.
+	</p>
+	<p>
+	Minimum rolling average: <strong>{{ min_rav }}</strong><br />
+	0-255, the rolling average of all the averages of the last 30 minutes, at which the pump is disabled.
+	</p>
+	<p>
+	Minimum previous rain: <strong>{{ min_prev }}</strong><br />
+	0-255, the point at which the pump is disabled because of rain in the previous period.
+	</p>
+	<p>
+	Previous period: <strong>{{ period }} hr{% if period > 1 %}s{% end %}</strong><br />
+	0-12, the number of hours to look back and measure previous rainfall data.
+	</p>
+</div>
+<div id="datalist">
+	<h3>2hr Forecasts from the last hour</h3>
+	<table>
+	<thead>
+		<td width="15%">Date &amp; Time</td>
+		<td width="65%">Next 2 hrs</td>
+		<td width="5%">Av.</td>
+		<td width="5%">Roll. Av.</td>
+		<td width="5%">Prev. rain</td>
+		<td width="5%">Pump</td>
+	</thead>
+	{% import datetime %}
+	{% for reading in data  %}
+	<tr>
+		<td>{{ reading[0].strftime("%a %b %d %Y %H:%M") }}</td>
+		<td>{{ reading[1] }}</td>
+		<td>{{ reading[2] }}</td>
+		<td>{{ reading[3] }}</td>
+		<td>{{ reading[4] }}</td>
+		<td>{% if reading[5] == 1 %}Enabled{% else %}Disabled{%end%}</td>
+	</tr>
+ 	{% end %}
+	</table>
+</div>
+{% end %}

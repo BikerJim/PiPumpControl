@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+	{% block title %}Settings updated{% end block %}
+{% block navbar %}
+<div id="button_bar">
+<ul>
+<li><a href="/br/">Buienradar</a></li>
+<li><a href="/edit_settings/">Settings</a></li>
+<li><a href="/">Home</a></li>
+</ul>
+</div>
+{% end %}
+
+{% block body %}
+<h2>Settings Updated</h2>
+<h3>Settings are now:</h3>
+<p>
+Length: <strong>{{ length }}</strong><br />
+Min Rain: <strong>{{ min_rain }}</strong><br />
+Rolling average: <strong>{{ min_rav }}</strong><br />
+Previous rainfall setpoint : <strong>{{ min_prev }}</strong><br />
+Previous period: <strong>{{ period }}</strong><br />
+</p>
+{% end %}

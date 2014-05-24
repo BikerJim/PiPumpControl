@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+	{% block title%}Change settings{% end block%}
+
+{% block navbar %}
+<div id="button_bar">
+<ul>
+<li><a href="/br/">Buienradar</a></li>
+<li><a href="/edit_settings/">Settings</a></li>
+<li><a href="/">Home</a></li>
+</ul>
+</div>
+{% end %}
+
+{% block body %}
+<h3>Change Settings</h3>
+<form action="" method="post">
+Seconds to run the pump: 
+<select name="length">
+	<option {% if length == 10 %}selected="selected"{% end %}value="10">10 Seconds</option>
+	<option {% if length == 30 %}selected="selected"{% end %}value="30">30 Seconds</option>
+	<option {% if length == 60 %}selected="selected"{% end %}value="60">1 minute</option>
+	<option {% if length == 120 %}selected="selected"{% end %}value="120">2 Minutes</option>
+	<option {% if length == 240 %}selected="selected"{% end %}value="240">4 Minutes</option>
+	<option {% if length == 360 %}selected="selected"{% end %}value="360">6 Minutes</option>
+	<option {% if length == 600 %}selected="selected"{% end %}value="600">10 Minutes</option>
+</select><br />
+Minimum Rainfall to record: 
+<select name="min_rain">
+	<option {% if min_rain == 0 %}selected="selected"{% end %}value="0">Record everything</option>
+	<option {% if min_rain == 1 %}selected="selected"{% end %}value="1">Ignore Zeros</option>
+	<option {% if min_rain == 10 %}selected="selected"{% end %}value="10">Light rain (10)</option>
+	<option {% if min_rain == 20 %}selected="selected"{% end %}value="20">Medium rain (20)</option>
+	<option {% if min_rain == 50 %}selected="selected"{% end %}value="50">Heavy rain (50)</option>
+	<option {% if min_rain == 100 %}selected="selected"{% end %}value="100">Torrential rain (100)</option>
+</select><br />
+Rolling average setpoint to disable pump: 
+<select name="min_rav">
+	<option {% if min_rav == 0 %}selected="selected"{% end %}value="0">Always disable</option>
+	<option {% if min_rav == 10 %}selected="selected"{% end %}value="10">Light rain (10)</option>
+	<option {% if min_rav == 20 %}selected="selected"{% end %}value="20">Medium rain (20)</option>
+	<option {% if min_rav == 50 %}selected="selected"{% end %}value="50">Heavy rain (50)</option>
+	<option {% if min_rav == 100 %}selected="selected"{% end %}value="100">Torrential rain (100)</option>
+</select><br />
+Setpoint of previous rainfall in last period to disable pump (the longer the previous period the lower the setpoint should be): 
+<select name="min_prev">
+	<option {% if min_prev == 0 %}selected="selected"{% end %}value="0">Always disable</option>
+	<option {% if min_prev == 5 %}selected="selected"{% end %}value="5">Light rain (5)</option>
+	<option {% if min_prev == 10 %}selected="selected"{% end %}value="10">Medium rain (10)</option>
+	<option {% if min_prev == 15 %}selected="selected"{% end %}value="15">Heavy rain (15)</option>
+	<option {% if min_prev == 20 %}selected="selected"{% end %}value="20">Torrential rain (20)</option>
+</select><br />
+Number of hours' data to determine previous rainfall: 
+<select name="period">
+	<option {% if period == 1 %}selected="selected"{% end %}value="1">Last hour</option>
+	<option {% if period == 2 %}selected="selected"{% end %}value="2">Last 2 hours</option>
+	<option {% if period == 3 %}selected="selected"{% end %}value="3">Last 3 hours</option>
+	<option {% if period == 4 %}selected="selected"{% end %}value="4">Last 4 hours</option>
+	<option {% if period == 5 %}selected="selected"{% end %}value="5">Last 5 hours</option>
+	<option {% if period == 6 %}selected="selected"{% end %}value="6">Last 6 hours</option>
+</select><br />
+<input type="submit" value="Update">
+</form>
+{% end %}

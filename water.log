@@ -1,0 +1,1487 @@
+Sun Apr 20 20:02:11 2014: Ran pump for 10 seconds
+Mon Apr 21 08:12:03 2014: Ran pump for 600 seconds
+Mon Apr 21 20:12:03 2014: Ran pump for 600 seconds
+Failed to reach server.
+Reason: [Errno -2] Name or service not known
+Mon Apr 21 20:30:04 2014: Connection Failed
+Failed to reach server.
+Reason: Service Unavailable
+Mon Apr 21 21:20:05 2014: Connection Failed
+Failed to reach server.
+Reason: Service Unavailable
+Mon Apr 21 21:50:04 2014: Connection Failed
+Tue Apr 22 08:12:03 2014: Ran pump for 600 seconds
+Failed to reach server.
+Reason: Service Unavailable
+Tue Apr 22 10:20:04 2014: Connection Failed
+Tue Apr 22 20:12:03 2014: Ran pump for 600 seconds
+Wed Apr 23 08:12:03 2014: Ran pump for 600 seconds
+Failed to reach server.
+Reason: [Errno -2] Name or service not known
+Wed Apr 23 20:10:05 2014: Connection Failed
+Wed Apr 23 20:12:03 2014: Ran pump for 600 seconds
+Wed Apr 23 20:18:36 2014: Ran pump for 2 seconds
+Wed Apr 23 20:20:13 2014: Ran pump for 2 seconds
+Wed Apr 23 20:23:56 2014: Ran pump for 2 seconds
+Wed Apr 23 20:26:01 2014: Pump disabled
+Wed Apr 23 20:26:27 2014: Pump disabled
+Wed Apr 23 20:26:57 2014: Pump disabled
+Wed Apr 23 20:28:05 2014: Pump disabled
+Thu Apr 24 08:02:02 2014: Pump disabled
+Thu Apr 24 20:02:02 2014: Pump disabled
+Fri Apr 25 08:12:03 2014: Ran pump for 600 seconds
+Fri Apr 25 20:02:02 2014: Pump disabled
+Sat Apr 26 08:12:03 2014: Ran pump for 600 seconds
+Sat Apr 26 20:02:12 2014: Ran pump for 10 seconds
+Sun Apr 27 08:02:12 2014: Ran pump for 10 seconds
+Sun Apr 27 20:02:02 2014: Pump disabled
+Mon Apr 28 08:02:12 2014: Ran pump for 10 seconds
+Mon Apr 28 20:02:02 2014: Pump disabled
+Tue Apr 29 08:02:01 2014: Pump disabled
+Tue Apr 29 20:02:02 2014: Pump disabled
+Wed Apr 30 08:02:12 2014: Ran pump for 10 seconds
+Wed Apr 30 20:02:02 2014: Pump disabled
+Thu May  1 08:02:02 2014: Pump disabled
+Thu May  1 20:02:02 2014: Pump disabled
+Fri May  2 08:02:12 2014: Ran pump for 10 seconds
+Fri May  2 20:02:12 2014: Ran pump for 10 seconds
+Sat May  3 08:02:12 2014: Ran pump for 10 seconds
+Sat May  3 20:02:12 2014: Ran pump for 10 seconds
+Sun May  4 08:02:12 2014: Ran pump for 10 seconds
+Sun May  4 20:02:12 2014: Ran pump for 10 seconds
+Mon May  5 08:02:12 2014: Ran pump for 10 seconds
+Mon May  5 12:50:08 2014: Failed to reach server.
+Mon May  5 12:50:08 2014: Reason: Service Unavailable
+Mon May  5 12:50:08 2014: Connection Failed
+Mon May  5 14:04:46 2014: Failed to reach server.
+Mon May  5 14:04:46 2014: Reason: Internal Server Error
+Mon May  5 14:04:46 2014: Connection Failed
+Mon May  5 14:10:09 2014: Failed to reach server.
+Mon May  5 14:10:09 2014: Reason: Service Unavailable
+Mon May  5 14:10:09 2014: Connection Failed
+Mon May  5 14:24:31 2014: Failed to reach server.
+Mon May  5 14:24:31 2014: Reason: Internal Server Error
+Mon May  5 14:24:31 2014: Connection Failed
+Mon May  5 14:50:08 2014: Failed to reach server.
+Mon May  5 14:50:08 2014: Reason: Service Unavailable
+Mon May  5 14:50:08 2014: Connection Failed
+Mon May  5 18:40:08 2014: Failed to reach server.
+Mon May  5 18:40:08 2014: Reason: Service Unavailable
+Mon May  5 18:40:08 2014: Connection Failed
+Mon May  5 19:20:08 2014: Failed to reach server.
+Mon May  5 19:20:08 2014: Reason: Service Unavailable
+Mon May  5 19:20:08 2014: Connection Failed
+Mon May  5 20:02:12 2014: Ran pump for 10 seconds
+Tue May  6 08:02:12 2014: Ran pump for 10 seconds
+Tue May  6 20:02:12 2014: Ran pump for 10 seconds
+Wed May  7 05:54:28 2014: Failed to reach server.
+Wed May  7 05:54:28 2014: Reason: Internal Server Error
+Wed May  7 05:54:28 2014: Connection Failed
+Wed May  7 08:02:02 2014: Pump disabled
+Wed May  7 09:20:08 2014: Failed to reach server.
+Wed May  7 09:20:08 2014: Reason: Internal Server Error
+Wed May  7 09:20:08 2014: Connection Failed
+Wed May  7 09:30:08 2014: Failed to reach server.
+Wed May  7 09:30:08 2014: Reason: Service Unavailable
+Wed May  7 09:30:08 2014: Connection Failed
+Wed May  7 20:02:12 2014: Ran pump for 10 seconds
+Thu May  8 08:02:12 2014: Ran pump for 10 seconds
+Thu May  8 20:02:02 2014: Pump disabled
+Fri May  9 08:02:12 2014: Ran pump for 10 seconds
+Fri May  9 20:02:02 2014: Pump disabled
+Sat May 10 08:02:02 2014: Pump disabled
+Sat May 10 20:02:12 2014: Ran pump for 10 seconds
+Sun May 11 08:02:02 2014: Pump disabled
+Sun May 11 10:05:58 2014: Data written
+Sun May 11 10:36:56 2014: Data written
+WTF!!!
+WTF!!!
+Settings got
+WTF!!!
+Settings got
+WTF!!!
+Settings got
+WTF!!!
+hello[0, 67, 106, 67, 97, 122, 117, 117, 111, 116, 112, 82, 20, 69, 85, 122, 119, 110, 106, 105, 109, 106, 75, 73, 82, 88]6505
+Settings got
+WTF!!!
+hello[0, 113, 70, 96, 124, 110, 121, 106, 115, 109, 75, 63, 71, 84, 118, 117, 117, 105, 98, 105, 108, 86, 83, 80, 94, 87]6505
+Settings got
+WTF!!!
+hello[0, 80, 97, 125, 112, 119, 111, 117, 108, 85, 72, 83, 88, 123, 116, 116, 108, 98, 105, 101, 82, 88, 94, 95, 91, 89]6505
+Settings got
+WTF!!!
+hello[0, 80, 97, 125, 112, 119, 111, 117, 108, 85, 72, 83, 88, 123, 116, 116, 108, 98, 105, 101, 82, 88, 94, 95, 91, 89]6505
+Settings got
+WTF!!!
+hello[0, 80, 97, 125, 112, 119, 111, 117, 108, 85, 72, 83, 88, 123, 116, 116, 108, 98, 105, 101, 82, 88, 94, 95, 91, 89]6505
+Settings got
+WTF!!!
+hello[0, 80, 97, 125, 112, 119, 111, 117, 108, 85, 72, 83, 88, 123, 116, 116, 108, 98, 105, 101, 82, 88, 94, 95, 91, 89]6505
+042140
+Settings got
+WTF!!!
+hello[0, 102, 128, 113, 122, 105, 118, 102, 76, 71, 90, 103, 124, 116, 118, 107, 104, 109, 98, 80, 96, 92, 99, 92, 95, 88]6505
+038140
+Settings got
+WTF!!!
+hello[0, 102, 128, 113, 122, 105, 118, 102, 76, 71, 90, 103, 124, 116, 118, 107, 104, 109, 98, 80, 96, 92, 99, 92, 95, 88]6505
+Settings got
+042141
+Settings got
+Settings got
+Settings got
+040140
+Settings got
+041141
+Settings got
+Settings got
+040140
+Settings got
+Settings got
+9640151
+Settings got
+Settings got
+96391337
+2014-05-11 12:36:09.800246[0, 116, 131, 103, 102, 105, 73, 89, 120, 113, 111, 110, 109, 109, 106, 110, 107, 102, 79, 72, 71, 79, 78, 75, 74, 68]9296320
+2014-05-11 12:36:09.800246391337
+Sun May 11 12:36:21 2014: Data written
+Settings got
+Settings got
+94381438
+2014-05-11 12:41:55.830294[0, 127, 116, 100, 101, 93, 96, 116, 117, 114, 111, 113, 110, 112, 108, 112, 111, 87, 70, 72, 85, 81, 79, 79, 74, 69]9494450
+2014-05-11 12:41:55.830294381438
+Sun May 11 12:42:07 2014: Data written
+Settings got
+401437
+411436
+391436
+391436
+Settings got
+381435
+93381435
+2014-05-11 12:59:09.383865[0, 88, 118, 128, 127, 115, 128, 121, 113, 105, 117, 125, 99, 81, 89, 89, 92, 97, 92, 87, 81, 75, 76, 77, 80, 80]9593530
+2014-05-11 12:59:09.383865381435
+Sun May 11 12:59:21 2014: Data written
+Settings got
+Settings got
+Settings got
+Settings got
+391532
+93391532
+Settings got
+Settings got
+401533
+93401533
+Weather: 2014-05-11 13:21:30.304113[0, 124, 118, 112, 107, 102, 98, 116, 106, 77, 77, 90, 86, 85, 80, 90, 75, 74, 79, 79, 80, 80, 74, 90, 120, 109]8993590
+Sensors:2014-05-11 13:21:30.304113401533
+Sun May 11 13:21:41 2014: Data written
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+36140
+036140
+Weather: 2014-05-11 20:07:35.524210[0, 0, 0, 112, 122, 134, 131, 126, 112, 118, 92, 134, 131, 127, 123, 107, 106, 108, 107, 43, 80, 100, 103, 69, 60, 64]92001
+Sensors:2014-05-11 20:07:35.52421036140
+Sun May 11 20:07:47 2014: Data written
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got
+Settings got: (1, 0, 50, 5, 6, 10)
+Settings got: (1, 0, 50, 5, 6, 10)
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 96, 85, 104, 43, 0, 0, 0, 0, 0, 0, 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 99, 93, 101, 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 106, 102, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Write data; submitted: [0, 106, 102, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-11 21:40:09.021113
+11
+0
+db_conn created
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Write data; submitted: [0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-11 21:45:08.894796
+8
+0
+db_conn created
+Write data; prev_period: 0
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 102, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 90, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 89, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 88, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 72, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 42, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 37, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 61, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:31:00 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+31140
+check_sensors (outside) : (31, 14, 0)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-11 23:31:10.434193
+0
+0
+db_conn created
+Write data; prev_period: 0
+check_sensors (inside) : 10
+29140
+Write data; check_sensors: (29, 14, 0)
+029140
+Weather: 2014-05-11 23:31:10.434193[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0001
+Sensors:2014-05-11 23:31:10.43419329140
+Sun May 11 23:31:21 2014: Data written
+Sun May 11 23:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Sun May 11 23:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:10:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:45:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 44, 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 72, 92, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 00:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 71, 86, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 36, 66, 83, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 64, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 51, 0, 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:35:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:45:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:50:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 01:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:10:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:15:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:25:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:30:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:40:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:45:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 02:55:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:25:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:50:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 03:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:15:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:25:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 04:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 27, 104, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 101, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 106, 35, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 23, 0, 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 05:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:25:14 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:35:07 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 06:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54]
+check_sensors (inside) : 10
+Mon May 12 06:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 0]
+check_sensors (inside) : 10
+Mon May 12 07:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 07:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 32, 35, 106, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 14, 0, 0, 0, 59, 0, 0, 62]
+check_sensors (inside) : 10
+Mon May 12 07:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 44, 67, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 72, 103, 0, 0, 0, 51, 47, 0, 0, 60, 79]
+check_sensors (inside) : 10
+Mon May 12 07:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 43, 111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 82, 115, 47, 0, 0, 70, 56, 0, 0, 88, 64, 113]
+check_sensors (inside) : 10
+Mon May 12 07:20:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 103, 17, 0, 0, 44, 0, 0, 0, 0, 0, 0, 84, 112, 0, 0, 0, 0, 75, 0, 48, 76, 26, 114, 107]
+check_sensors (inside) : 10
+Mon May 12 07:25:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 103, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 83, 116, 0, 0, 0, 70, 66, 52, 80, 77, 38, 108, 100, 37]
+check_sensors (inside) : 10
+Mon May 12 07:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 73, 118, 79, 0, 0, 57, 83, 73, 50, 80, 53, 106, 110, 33, 0]
+check_sensors (inside) : 10
+Mon May 12 07:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 91, 59, 0, 59, 100, 61, 41, 72, 60, 70, 111, 86, 41, 0]
+check_sensors (inside) : 10
+Mon May 12 07:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 52, 0, 96, 107, 95, 0, 0, 100, 0, 0, 83, 76, 0, 91, 102, 36, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 07:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 77, 0, 0, 0, 0, 0, 0, 0, 86, 118, 110, 0, 0, 96, 80, 0, 77, 71, 73, 76, 104, 66, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 07:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 32, 0, 103, 123, 105, 0, 0, 101, 96, 0, 83, 64, 95, 73, 93, 73, 0, 0, 0, 70]
+check_sensors (inside) : 10
+Mon May 12 07:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 64, 59, 83, 126, 100, 0, 0, 110, 98, 0, 96, 58, 90, 78, 80, 59, 0, 0, 0, 64, 51]
+check_sensors (inside) : 10
+Mon May 12 08:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 50, 71, 97, 120, 108, 25, 0, 113, 88, 0, 86, 67, 96, 68, 76, 0, 0, 0, 0, 65, 0, 72]
+check_sensors (inside) : 10
+Mon May 12 08:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 69, 111, 117, 86, 31, 0, 109, 99, 0, 82, 54, 111, 72, 80, 49, 0, 0, 0, 0, 50, 69, 73]
+check_sensors (inside) : 10
+Mon May 12 08:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 42, 78, 105, 115, 89, 0, 0, 104, 105, 51, 83, 60, 101, 83, 77, 65, 0, 0, 0, 0, 44, 71, 73, 80]
+check_sensors (inside) : 10
+Mon May 12 08:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 60, 102, 93, 113, 100, 0, 0, 92, 111, 55, 90, 71, 92, 76, 67, 51, 0, 0, 0, 0, 0, 73, 79, 75, 42]
+check_sensors (inside) : 10
+Mon May 12 08:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 112, 113, 117, 92, 51, 0, 100, 123, 41, 91, 81, 96, 82, 67, 0, 0, 0, 0, 0, 0, 62, 78, 80, 29, 0]
+check_sensors (inside) : 10
+Mon May 12 08:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 116, 115, 91, 0, 53, 105, 131, 0, 94, 81, 92, 76, 43, 33, 0, 0, 0, 0, 0, 12, 65, 76, 34, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 08:30:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 119, 86, 0, 74, 115, 121, 87, 95, 94, 72, 54, 52, 0, 0, 0, 0, 0, 0, 0, 63, 78, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 08:35:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 95, 60, 50, 109, 108, 89, 94, 84, 62, 22, 0, 0, 0, 0, 0, 0, 0, 0, 7, 70, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 08:40:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 62, 107, 115, 93, 93, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 08:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 105, 117, 105, 87, 64, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 08:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 105, 116, 109, 93, 46, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63]
+check_sensors (inside) : 10
+Mon May 12 08:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 111, 117, 100, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0]
+check_sensors (inside) : 10
+Mon May 12 09:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 106, 95, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 87, 68, 0, 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 64, 0, 0, 65, 0, 0, 0, 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 64, 0, 0, 0, 0, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 90, 51, 0, 0, 0, 0, 56, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 79, 41, 0, 0, 0, 81, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 104, 112, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:40:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 60, 0, 0, 101, 103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 103, 111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 101, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 09:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 94, 115, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 111, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:40:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 10:55:07 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63, 40, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 11:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:20:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 65, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:25:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 81]
+check_sensors (inside) : 10
+Mon May 12 12:30:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75, 0]
+check_sensors (inside) : 10
+Mon May 12 12:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 12:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 83]
+check_sensors (inside) : 10
+Mon May 12 12:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 78, 0]
+check_sensors (inside) : 10
+Mon May 12 12:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 62, 0, 44]
+check_sensors (inside) : 10
+Mon May 12 13:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:15:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 64]
+check_sensors (inside) : 10
+Mon May 12 13:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 95, 0]
+check_sensors (inside) : 10
+Mon May 12 13:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 25, 0]
+check_sensors (inside) : 10
+Mon May 12 13:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 13:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 0]
+check_sensors (inside) : 10
+Mon May 12 14:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:30:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 51, 0]
+check_sensors (inside) : 10
+Mon May 12 14:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:36:44 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32153
+check_sensors (outside) : (32, 15, 3)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 14:36:54.523243
+2
+0
+db_conn created
+Write data; prev_period: 0
+check_sensors (inside) : 10
+29152
+Write data; check_sensors: (29, 15, 2)
+029152
+Weather: 2014-05-12 14:36:54.523243[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0]2001
+Sensors:2014-05-12 14:36:54.52324329152
+Mon May 12 14:37:05 2014: Data written
+Mon May 12 14:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:45:10 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:50:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 14:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:16:55 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32141
+check_sensors (outside) : (32, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 15:17:05.524189
+0
+2
+db_conn created
+Write data; prev_period: 0
+check_sensors (inside) : 10
+31141
+Write data; check_sensors: (31, 14, 1)
+231141
+Weather: 2014-05-12 15:17:05.524189[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0201
+Sensors:2014-05-12 15:17:05.52418931141
+Mon May 12 15:17:16 2014: Data written
+Mon May 12 15:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:22:30 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+30141
+check_sensors (outside) : (30, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 15:22:41.303896
+0
+1
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+29141
+Write data; check_sensors: (29, 14, 1)
+129141
+Weather: 2014-05-12 15:22:41.303896[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0111
+Sensors:2014-05-12 15:22:41.30389629141
+Mon May 12 15:22:54 2014: Data written
+Mon May 12 15:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:30:07 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 92, 87, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:45:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:50:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79, 89, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 15:51:24 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79, 89, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+33152
+check_sensors (outside) : (33, 15, 2)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79, 89, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 15:51:34.731667
+6
+0
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+30153
+Write data; check_sensors: (30, 15, 3)
+030153
+Weather: 2014-05-12 15:51:34.731667[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79, 89, 0, 0, 0, 0, 0, 0, 0]6011
+Sensors:2014-05-12 15:51:34.73166730153
+Mon May 12 15:51:45 2014: Data written
+Mon May 12 15:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 16:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 16:05:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 16:10:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 16:15:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+Mon May 12 16:20:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32152
+check_sensors (outside) : (32, 15, 2)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:20:19.049595
+0
+6
+db_conn created
+Write data; prev_period: 0
+check_sensors (inside) : 10
+32152
+Write data; check_sensors: (32, 15, 2)
+632152
+Weather: 2014-05-12 16:20:19.049595[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0601
+Sensors:2014-05-12 16:20:19.04959532152
+Mon May 12 16:20:30 2014: Data written
+Mon May 12 16:25:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32142
+check_sensors (outside) : (32, 14, 2)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:25:19.220885
+0
+3
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+30142
+Write data; check_sensors: (30, 14, 2)
+330142
+Weather: 2014-05-12 16:25:19.220885[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0311
+Sensors:2014-05-12 16:25:19.22088530142
+Mon May 12 16:25:30 2014: Data written
+Mon May 12 16:30:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+31141
+check_sensors (outside) : (31, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:30:19.650385
+0
+2
+db_conn created
+Write data; prev_period: 2
+check_sensors (inside) : 10
+29142
+Write data; check_sensors: (29, 14, 2)
+229142
+Weather: 2014-05-12 16:30:19.650385[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0221
+Sensors:2014-05-12 16:30:19.65038529142
+Mon May 12 16:30:30 2014: Data written
+Mon May 12 16:35:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32141
+check_sensors (outside) : (32, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:35:19.164043
+0
+1
+db_conn created
+Write data; prev_period: 2
+check_sensors (inside) : 10
+30141
+Write data; check_sensors: (30, 14, 1)
+130141
+Weather: 2014-05-12 16:35:19.164043[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0121
+Sensors:2014-05-12 16:35:19.16404330141
+Mon May 12 16:35:30 2014: Data written
+Mon May 12 16:40:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+31141
+check_sensors (outside) : (31, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:40:19.314497
+0
+1
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+30141
+Write data; check_sensors: (30, 14, 1)
+130141
+Weather: 2014-05-12 16:40:19.314497[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0111
+Sensors:2014-05-12 16:40:19.31449730141
+Mon May 12 16:40:30 2014: Data written
+Mon May 12 16:45:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+31141
+check_sensors (outside) : (31, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:45:20.264343
+0
+0
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+30141
+Write data; check_sensors: (30, 14, 1)
+030141
+Weather: 2014-05-12 16:45:20.264343[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0011
+Sensors:2014-05-12 16:45:20.26434330141
+Mon May 12 16:45:31 2014: Data written
+Mon May 12 16:50:09 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+31141
+check_sensors (outside) : (31, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:50:19.759814
+0
+0
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+29141
+Write data; check_sensors: (29, 14, 1)
+029141
+Weather: 2014-05-12 16:50:19.759814[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0011
+Sensors:2014-05-12 16:50:19.75981429141
+Mon May 12 16:50:30 2014: Data written
+Mon May 12 16:55:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+32141
+check_sensors (outside) : (32, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 16:55:19.003706
+0
+0
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+29141
+Write data; check_sensors: (29, 14, 1)
+029141
+Weather: 2014-05-12 16:55:19.003706[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0011
+Sensors:2014-05-12 16:55:19.00370629141
+Mon May 12 16:55:30 2014: Data written
+Mon May 12 17:00:08 2014 ### New Run ###
+Settings got: (1, 0, 50, 5, 6, 10)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+check_sensors (inside) : 10
+30141
+check_sensors (outside) : (30, 14, 1)
+Write data; submitted: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+6
+50
+5
+Write data; calculated: 2014-05-12 17:00:18.991977
+0
+0
+db_conn created
+Write data; prev_period: 1
+check_sensors (inside) : 10
+30141
+Write data; check_sensors: (30, 14, 1)
+030141
+Weather: 2014-05-12 17:00:18.991977[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]0011
+Sensors:2014-05-12 17:00:18.99197730141
+Mon May 12 17:00:30 2014: Data written
+Sat May 17 13:24:30 2014: GPIO Error Trapped (Green status LED)
+Sat May 17 13:25:14 2014: GPIO Error Trapped (Green status LED)
+Sat May 17 13:30:19 2014: GPIO Error Trapped (Green status LED)
+Sat May 17 14:01:31 2014: Ran pump for 10 seconds
+Sat May 17 14:04:49 2014: Ran pump for 10 seconds
+Sat May 17 14:19:27 2014: GPIO Error Trapped (Green status LED)
+Sat May 17 20:02:12 2014: Ran pump for 10 seconds
+Sun May 18 08:02:13 2014: Ran pump for 10 seconds
+Sun May 18 20:02:12 2014: Ran pump for 10 seconds
+Mon May 19 08:02:12 2014: Ran pump for 10 seconds
+Mon May 19 20:03:03 2014: Ran pump for 60 seconds
+Mon May 19 20:58:03 2014: Ran pump for 60 seconds
+Mon May 19 21:05:04 2014: Ran pump for 60 seconds
+Mon May 19 21:30:08 2014: Failed to reach server.
+Mon May 19 21:30:08 2014: Reason: Service Unavailable
+Mon May 19 21:30:08 2014: Connection Failed
+Mon May 19 21:50:08 2014: Failed to reach server.
+Mon May 19 21:50:08 2014: Reason: Service Unavailable
+Mon May 19 21:50:08 2014: Connection Failed
+Tue May 20 00:10:08 2014: Failed to reach server.
+Tue May 20 00:10:08 2014: Reason: Internal Server Error
+Tue May 20 00:10:08 2014: Connection Failed
+Tue May 20 01:45:19 2014: Failed to reach server.
+Tue May 20 01:45:19 2014: Reason: Internal Server Error
+Tue May 20 01:45:19 2014: Connection Failed
+Tue May 20 08:03:03 2014: Ran pump for 60 seconds
+Tue May 20 10:12:15 2014: Failed to reach server.
+Tue May 20 10:12:15 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 10:12:15 2014: Connection Failed
+Tue May 20 10:52:16 2014: Failed to reach server.
+Tue May 20 10:52:16 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 10:52:16 2014: Connection Failed
+Tue May 20 11:02:15 2014: Failed to reach server.
+Tue May 20 11:02:15 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 11:02:15 2014: Connection Failed
+Tue May 20 11:12:15 2014: Failed to reach server.
+Tue May 20 11:12:15 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 11:12:15 2014: Connection Failed
+Tue May 20 11:22:16 2014: Failed to reach server.
+Tue May 20 11:22:16 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 11:22:16 2014: Connection Failed
+Tue May 20 14:12:16 2014: Failed to reach server.
+Tue May 20 14:12:16 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 14:12:16 2014: Connection Failed
+Tue May 20 14:22:16 2014: Failed to reach server.
+Tue May 20 14:22:16 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 14:22:16 2014: Connection Failed
+Tue May 20 14:32:16 2014: Failed to reach server.
+Tue May 20 14:32:16 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 14:32:16 2014: Connection Failed
+Tue May 20 14:42:15 2014: Failed to reach server.
+Tue May 20 14:42:15 2014: Reason: [Errno 110] Connection timed out
+Tue May 20 14:42:15 2014: Connection Failed
+Tue May 20 20:03:02 2014: Ran pump for 60 seconds
+Wed May 21 08:03:02 2014: Ran pump for 60 seconds
+Wed May 21 20:03:03 2014: Ran pump for 60 seconds
+Thu May 22 08:02:02 2014: Pump disabled
+Thu May 22 20:03:02 2014: Ran pump for 60 seconds
+Fri May 23 08:03:02 2014: Ran pump for 60 seconds
+Fri May 23 20:03:02 2014: Ran pump for 60 seconds
+Sat May 24 08:03:02 2014: Ran pump for 60 seconds
+Sat May 24 18:15:07 2014: Ran pump for 60 seconds
+Sat May 24 18:18:33 2014: Ran pump for 60 seconds
+Sat May 24 20:03:02 2014: Ran pump for 60 seconds
+Sat May 24 20:30:42 2014: Ran pump for 60 seconds
+Sat May 24 20:31:55 2014: Ran pump for 60 seconds

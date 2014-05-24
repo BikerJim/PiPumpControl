@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Buienradar data{% end block %}
+{% block navbar %}
+<div id="button_bar">
+<ul>
+<li><a href="/br/">Buienradar</a></li>
+<li><a href="/edit_settings/">Settings</a></li>
+<li><a href="/">Home</a></li>
+</ul>
+</div>
+{% end %}
+{% block body %}
+<div class="blue_bg">
+<div id="cockpit">
+    <div class="gauge">
+        <a href="http://www.buienradar.nl/weerstation/grafiek/6240/dd?name=Windrichting&stationname=Schiphol&extension=360%20graden)">
+            <img src="http://www.buienradar.nl/weatherstation/gaugeimage?stationCode=6240&type=wind" alt="Windrichting">
+        </a><a href="http://www.buienradar.nl/weerstation/grafiek/6240/ff?name=Windsnelheid%2520(km%2Fu)&stationname=Schiphol&extension=km%2Fu)">
+            <img src="http://www.buienradar.nl/weatherstation/gaugeimage?stationCode=6240&type=windspeed" alt="Windsnelheid">
+        </a>
+    </div>
+    <div class="tempgauge">
+        <a href="http://www.buienradar.nl/weerstation/grafiek/6240/ta?name=Temperatuur&stationname=Schiphol&extension=in%2Bgraden) ">
+            <img src="http://www.buienradar.nl/weatherstation/gaugeimage?stationCode=6240&type=temperature" alt="Temperatuur">
+        </a>
+    </div>
+    <div class="gauge">
+        <a href="http://www.buienradar.nl/weerstation/grafiek/6240/pp?name=Luchtdruk&stationname=Schiphol&extension=hpa)">
+            <img src="http://www.buienradar.nl/weatherstation/gaugeimage?stationCode=6240&type=airpressure" alt="Luchtdruk">
+        </a><a href="http://www.buienradar.nl/weerstation/grafiek/6240/rh?name=Luchtvochtigheid&stationname=Schiphol&extension=procenten)">
+            <img src="http://www.buienradar.nl/weatherstation/gaugeimage?stationCode=6240&type=humidity" alt="Luchtvochtigheid">
+        </a>
+    </div>
+    <style type="text/css">
+        .gauge {
+            float: left;
+            margin: 10px 10px 10px 0px;
+        }
+        .gauge img {
+            width: 200px;
+        }
+        .tempgauge {
+            margin: 10px 10px 0px 0px;
+        }
+        .tempgauge img {
+        }
+    </style>
+</div>
+<div id="forecast">
+<IFRAME SRC="http://gratisweerdata.buienradar.nl/weergadget/index6240.html" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=300 HEIGHT=190></IFRAME><br/>
+<!--	/div><br />
+<div id="satellite"-->
+<iframe src="http://mijn.buienradar.nl/lokalebuienradar.aspx?voor=1&lat=52.363683&x=1&y=1&lng=4.8559462&overname=2&zoom=11&naam=1058de&size=2&map=1" scrolling=no width=350 height=300 frameborder=yes></iframe>
+</div>
+</div>
+<img src="/static/test.png"/>
+{% end %}

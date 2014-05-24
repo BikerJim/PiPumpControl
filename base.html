@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block title %}Weather Checker{% end block %}</title>
+        <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+{% block navbar %}
+<div id="button_bar">
+<ul> 
+<li>
+{% if pump_status == 1 %}
+<img src="/static/pump_enabled.png"/>
+{% else %}
+<img src="/static/pump_disabled.png"/>
+{% end %}
+</li>
+<li><a href="/br/">Buienradar</a></li>
+<li><a href="/edit_settings/">Settings</a></li>
+</ul>
+</div>
+{% end block %}
+
+{% block body %}
+{% end block %}
+</body>
+</html>
